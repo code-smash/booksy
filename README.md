@@ -1,2 +1,3 @@
-# booksy
-A book review app
+# booksy - A book review app
+
+
